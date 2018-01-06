@@ -1,0 +1,14 @@
+{
+  "name": "anki-add-furigana",
+  "version": "0.0.1",
+  "scripts": {
+    "run": "node src/index.js"
+  },
+  "dependencies": {
+    "@types/adm-zip": "^0.4.31",
+    "@types/node": "^8.5.7",
+    "adm-zip": "^0.4.7",
+    "kuroshiro": "file:../kuroshiro.js",
+    "sqlite": "^2.9.0"
+  }
+}
